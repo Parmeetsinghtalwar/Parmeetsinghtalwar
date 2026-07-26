@@ -1,18 +1,161 @@
-# 💫 About Me:
-## 👋 About Me<br><br>I'm **Parmeet Singh Talwar**, an AI Engineer passionate about building practical AI products, intelligent automations, and developer tools.<br><br>Currently, I work on **GenAI workflows, prompt engineering, context optimization, and AI-powered automation systems**, while also contributing to full-stack AI applications using modern web technologies.<br><br>I enjoy turning complex ideas into products that people can actually use—whether that's AI agents, LLM workflows, automation pipelines, or machine learning solutions.<br><br>### 🚀 What I'm currently focused on<br><br>* 🤖 Building AI agents and autonomous workflows<br>* 🧠 Prompt engineering & context optimization for LLMs<br>* ⚡ Automating repetitive work with AI<br>* 🌐 Full-stack AI applications<br>* 📊 Machine Learning & Data Science<br>* 🌍 Growing as an Open Source Contributor<br><br>### 🛠 Tech I work with<br><br>**Languages**<br><br>* Python • JavaScript • TypeScript • SQL<br><br>**AI & Machine Learning**<br><br>* OpenAI • Claude • PyTorch • TensorFlow • Scikit-learn • LangChain • LLM Evaluation • RAG • Prompt Engineering<br><br>**Web Development**<br><br>* React • Next.js • FastAPI • Tailwind CSS • PostgreSQL<br><br>**Automation & DevOps**<br><br>* n8n • GitHub Actions • Docker • Jenkins • Nginx • PM2<br><br>### 📚 Currently Learning<br><br>* AI System Design<br>* Multi-Agent Systems<br>* Open Source Development<br>* Distributed AI Infrastructure<br>* Advanced RAG Architectures<br><br>### 🤝 Open to collaborate on<br><br>* Open Source AI Projects<br>* Developer Tools<br>* AI Automation<br>* Full-Stack AI Products<br>* Machine Learning Projects<br><br>> *I love building things that save people time and make AI genuinely useful.*<br>
+<h1 align="center">Hi 👋, I'm Parmeet Singh Talwar</h1>
 
+<h3 align="center">
+AI Engineer • LLM Applications • Autonomous Agents • GenAI Systems
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parmeettalwar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parmeetsinghtalwar2003@gmail.com) 
+<p align="center">
+Building production-ready AI systems, intelligent automations, and developer tools.
+</p>
 
-# 💻 Tech Stack:
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Parmeetsinghtalwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Parmeetsinghtalwar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Parmeetsinghtalwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<a href="https://linkedin.com/in/parmeettalwar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:parmeetsinghtalwar2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://parmeettalwar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Parmeetsinghtalwar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+🚀 AI Engineer focused on building **production-ready LLM applications**
+
+- 🤖 Building autonomous AI agents & multi-agent systems
+- 🧠 Specialized in Prompt Engineering, Context Engineering & RAG
+- 📊 Developing intelligent data extraction and knowledge systems
+- ⚡ Creating AI automations that solve real business problems
+- 🌐 Building scalable Full-Stack AI applications
+- 🌍 Growing through Open Source contributions
+
+---
+
+## 🚀 Currently Working On
+
+- 🤖 Autonomous AI Agents
+- 🧠 Multi-Agent Systems
+- 📚 Advanced RAG Architectures
+- ⚡ AI Automation Workflows
+- 🌍 Open Source AI Projects
+- 🔍 LLM Evaluation & Optimization
+
+---
+
+## 🛠️ Tech Stack
+
+### AI & LLM
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8E44AD?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+
+### Databases & Vector Stores
+
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge)
+
+### ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Parmeetsinghtalwar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmeetsinghtalwar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Parmeetsinghtalwar&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Parmeetsinghtalwar&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parmeetsinghtalwar&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on:
+
+- AI Agents
+- LLM Applications
+- RAG Systems
+- Open Source AI
+- Full Stack AI Products
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Parmeetsinghtalwar&style=for-the-badge&color=blue"/>
+
+</p>
+
+<p align="center">
+
+<i>"Building AI that creates real-world impact."</i>
+
+</p>
